@@ -31,7 +31,7 @@ The project performs various analyses to understand how depression relates to di
 
 The histogram shows the relationship between **income** and the **count** of individuals with a history of depression. It highlights income distribution among individuals who are reported to have depression.
 
-![Income vs Depression Histogram](images/histplot.jpg)
+![Income vs Depression Histogram](images/histplot.png)
 
 - **X-Axis**: Income levels (in USD).
 - **Y-Axis**: Count of individuals in each income range.
@@ -41,7 +41,7 @@ The histogram shows the relationship between **income** and the **count** of ind
 
 The correlation matrix provides insights into the relationships between all columns in the dataset. It helps identify any significant correlations between variables like income, age, and history of mental illness.
 
-![Correlation Matrix](images/correlation.jpg)
+![Correlation Matrix](images/correlation.png)
 
 - **Color Scale**: The colors indicate the strength and direction of correlations. Darker colors indicate stronger correlations.
 - **Key Insight**: The matrix is useful to identify strong correlations, like between **mental illness** history and other factors such as **income**, **employment status**, and **physical activity**.
@@ -50,7 +50,7 @@ The correlation matrix provides insights into the relationships between all colu
 
 This scatter plot shows the relationship between **income** and **age**. It provides a visual understanding of how income is distributed by age, especially among individuals with depression.
 
-![Income vs Age Scatter Plot](images/scatterplot.jpg)
+![Income vs Age Scatter Plot](images/scatterplot.png)
 
 - **X-Axis**: Age of the individual.
 - **Y-Axis**: Annual income in USD.
