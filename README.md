@@ -55,3 +55,17 @@ This scatter plot shows the relationship between **income** and **age**. It prov
 - **X-Axis**: Age of the individual.
 - **Y-Axis**: Annual income in USD.
 - **Key Insight**: This plot illustrates the relationship between age and income, providing insights into how individuals' income varies with age and the potential relationship with depression.
+
+### 4. **Sleep Patterns vs Depression Histogram**
+
+This histogram shows the relationship between **sleep patterns** and depression. It highlights how individuals with poor sleep patterns are more likely to report depression.
+
+![Sleep Patterns vs Depression Histogram](images/histplot3.png)
+
+- **X-Axis**: Sleep patterns (Good, Poor, Fair).
+- **Y-Axis**: Count of individuals in each sleep pattern category.
+- **Key Insight**: This plot highlights how sleep patterns (especially poor sleep) are associated with higher rates of depression.
+
+## Conclusion
+
+This project provides valuable insights into the relationships between various lifestyle and health factors, including income, sleep patterns, and mental health. The analysis indicates that factors like poor sleep, low income, and a history of mental illness are closely linked to depression. These findings can help in developing strategies for mental health awareness and intervention.
