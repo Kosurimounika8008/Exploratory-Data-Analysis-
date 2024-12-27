@@ -70,7 +70,7 @@ This histogram visualizes the relationship between **sleep patterns** and depres
 
 This visualization uses hue to show the relationship between **income** and depression, emphasizing how different income levels correlate with depression outcomes.
 
-![Income vs Depression with Hue](images/histplot_using_hue.png)
+![Income vs Depression with Hue](images/histplot using hue.png)
 
 - **X-Axis**: Income levels (in USD).
 - **Y-Axis**: Count of individuals.
@@ -80,7 +80,7 @@ This visualization uses hue to show the relationship between **income** and depr
 
 The violin plot shows the distribution of depression status across different age groups and income levels, allowing for a deeper understanding of these relationships.
 
-![Violin Plot](images/violin_plot.png)
+![Violin Plot](images/violin plot.png)
 
 - **X-Axis**: Age group and income levels.
 - **Y-Axis**: Depression status.
