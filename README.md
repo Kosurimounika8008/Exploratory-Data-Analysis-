@@ -29,7 +29,7 @@ The project performs various analyses to understand how depression relates to di
 
 ### 1. **Income vs Depression Histogram**
 
-This histogram shows the relationship between **income** and the **count** of individuals with a history of depression. It highlights how income is distributed among individuals with depression.
+This histogram shows the relationship between income and the count of individuals with a history of depression. It highlights how income is distributed among individuals with depression.
 
 ![Income vs Depression Histogram](images/histplot.png)
 
@@ -44,11 +44,11 @@ The correlation matrix provides insights into the relationships between all colu
 ![Correlation Matrix](images/correlation.png)
 
 - **Color Scale**: The colors indicate the strength and direction of correlations. Darker colors represent stronger correlations.
-- **Key Insight**: The matrix reveals strong correlations between factors such as **mental illness** history and other variables like **income**, **employment status**, and **physical activity**.
+- **Key Insight**: The matrix reveals strong correlations between factors such as mental illness history and other variables like income, employment status, and physical activity.
 
 ### 3. **Income vs Age Scatter Plot**
 
-This scatter plot visualizes the relationship between **income** and **age**, providing a view of how income is distributed by age, especially among individuals with depression.
+This scatter plot visualizes the relationship between income and age, providing a view of how income is distributed by age, especially among individuals with depression.
 
 ![Income vs Age Scatter Plot](images/scatterplot.png)
 
@@ -58,7 +58,7 @@ This scatter plot visualizes the relationship between **income** and **age**, pr
 
 ### 4. **Sleep Patterns vs Depression Histogram**
 
-This histogram visualizes the relationship between **sleep patterns** and depression. It highlights how individuals with poor sleep patterns are more likely to report depression.
+This histogram visualizes the relationship between sleep patterns and depression. It highlights how individuals with poor sleep patterns are more likely to report depression.
 
 ![Sleep Patterns vs Depression Histogram](images/histplot3.png)
 
@@ -68,9 +68,9 @@ This histogram visualizes the relationship between **sleep patterns** and depres
 
 ### 5. **Income vs Depression with Hue**
 
-This visualization uses hue to show the relationship between **income** and depression, emphasizing how different income levels correlate with depression outcomes.
+This visualization uses hue to show the relationship between income and depression, emphasizing how different income levels correlate with depression outcomes.
 
-![Income vs Depression with Hue](images/histplot using hue.png)
+![Income vs Depression with Hue](images/histplot_using_hue.png)
 
 - **X-Axis**: Income levels (in USD).
 - **Y-Axis**: Count of individuals.
@@ -80,7 +80,7 @@ This visualization uses hue to show the relationship between **income** and depr
 
 The violin plot shows the distribution of depression status across different age groups and income levels, allowing for a deeper understanding of these relationships.
 
-![Violin Plot](images/violin plot.png)
+![Violin Plot](images/violin_plot.png)
 
 - **X-Axis**: Age group and income levels.
 - **Y-Axis**: Depression status.
@@ -88,7 +88,7 @@ The violin plot shows the distribution of depression status across different age
 
 ### 7. **Income vs Depression Box Plot**
 
-This box plot shows the distribution of **income** among individuals with depression compared to those without, helping to visualize any income disparities between these groups.
+This box plot shows the distribution of income among individuals with depression compared to those without, helping to visualize any income disparities between these groups.
 
 ![Income vs Depression Box Plot](images/boxplot.png)
 
